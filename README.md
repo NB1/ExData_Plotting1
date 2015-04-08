@@ -5,6 +5,15 @@ The github repo is here:  https://github.com/NB1/ExData_Plotting1
 * Contains 4 op png files (plot1.png .. plot4.png)
 * Contains a Readme file (this = README.MD)
 
+
+#Programs do Intentional Extra Work
+
+To make each plot_i.R file work independently, each file loads the
+data independently of others.  In real world all these files may need
+to be combined into one.
+
+
+
 #Warnings
 
 * Contains no data because it is too big.  The user must download the data into the same directory in which R files are.  The data file must be called: household_power_consumption.txt
