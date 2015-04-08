@@ -1,3 +1,23 @@
+## Notes about project 1 (Introduction pushed to the later part of the document)
+
+The github repo is here:  https://github.com/NB1/ExData_Plotting1
+* Contains 4 .r files (plot1, plot2, plot3, plot4)
+* Contains 4 op png files (plot1.png .. plot4.png)
+* Contains a Readme file (this = README.MD)
+
+#Warnings
+
+* Contains no data because it is too big.  The user must download the data into the same directory in which R files are.  The data file must be called: household_power_consumption.txt
+
+* The program will install dplyr and lubridate packages. 
+
+#How to run
+
+In R prompt do:  source("./plotJJJ.R")  for JJJ = 1, 2, 3, 4
+
+
+
+
 ## Introduction
 
 This assignment uses data from
